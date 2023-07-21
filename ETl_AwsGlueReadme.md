@@ -15,5 +15,10 @@ Use a SQL Client to connect to the RDS database. If you have forgotten how to do
 
 ![image](https://github.com/Bumzeal/Data_Engineering_projects/assets/78567274/ab21b60a-911f-4777-a381-ce306c40e478)
 Use a SQL Client to connect to the RDS database. If you have forgotten how to do so, you may use this resource for reference. Create a database called BookCatalog.
+
 ![image](https://github.com/Bumzeal/Data_Engineering_projects/assets/78567274/39ea4412-28c1-43a1-8cc4-ff15df07f46d)
+
+Create a database called BookCatalog.
+![image](https://github.com/Bumzeal/Data_Engineering_projects/assets/78567274/3427091a-7286-4090-b0a9-c943c81cf2de)
+
 
