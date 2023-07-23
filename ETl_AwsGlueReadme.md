@@ -31,5 +31,7 @@ Back to exercise overview An AWS Glue classifier determines the schema of data s
 
 ![image](https://github.com/Bumzeal/Data_Engineering_projects/assets/78567274/5370ce41-fdd3-4b0a-8f3f-1a31b523fc72)
 
+![image](https://github.com/Bumzeal/Data_Engineering_projects/assets/78567274/be1d4cf5-1fc6-4749-a1d9-0015f05f8bf6)
+
 
 
